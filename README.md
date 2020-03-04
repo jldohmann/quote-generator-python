@@ -1,6 +1,8 @@
 # Quote Generator: Python
 A simple Flask app that generates Stephen Wolfram quotes when the page is refreshed
 
+An extended version of [this Flask project](https://thecodebits.com/flask-project-for-beginners-inspirational-quotes/).
+
 ## Environment and Setup
 Create a project directory, then change into it:
 ```
