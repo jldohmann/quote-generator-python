@@ -1,0 +1,19 @@
+{
+    "quotes": {
+        "1": "Cellular automata are discrete dynamical systems with simple construction but complex self-organizing behaviour. Evidence is presented that all one-dimensional cellular automata fall into four distinct universality classes. Characterizations of the structures generated in these classes are discussed. Three classes exhibit behaviour analogous to limit points, limit cycles and chaotic attractors. The fourth class is probably capable of universal computation, so that properties of its infinite time behaviour are undecidable.\n",
+        "2": "Computational reducibility may well be the exception rather than the rule: Most physical questions may be answerable only through irreducible amounts of computation. Those that concern idealized limits of infinite time, volume, or numerical precision can require arbitrarily long computations, and so be formally undecidable.\n",
+        "3": "Cellular automatat are discrete in several respects. First, they consist of a discrete spatial lattice of sites. Second, they evolve in discrete steps. And finally, each site has only a finite discrete set of possible values.",
+        "4": "The first two forms of discreteness are addressed in the numerical analysis of approximate solutions to, say, differential equations. ...",
+        "5": "The third form of discreteness in cellular automata is not so familiar from numerical analysis. It is an extreme form of round-off, in which each \"number\" can have only a few possible values (rather than the usual 2",
+        "6": " or 2",
+        "7": ").\n",
+        "8": "It was the spring of 1978 and I was 18 years old. I’d been publishing papers on particle physics for a few years, and had gotten quite known around the international particle physics community (and, yes, it took decades to live down my teenage-particle-physicist persona). I was in England, but planned to soon go to graduate school in the US, and was choosing between ",
+        "9": " and ",
+        "10": ". And one weekend afternoon when I was about to go out, the phone rang. In those days, it was obvious if it was an international call. “This is ",
+        "11": "”, the caller said, then launched into a monologue about why Caltech was the center of the universe for particle physics at the time.\n",
+        "12": "I had a very selfish reason for building Mathematica.  I wanted to use it myself, a bit like Galileo got to use his telescope four hundred years ago.  But I wanted to look, not at the astronomical universe, but at the computational universe.",
+        "13": "It's always seemed like a big mystery how nature, seemingly so effortlessly, manages to produce so much that seems to us so complex.  Well, I think we found its secret.  It's just sampling what's out there in the computational universe.",
+        "14": "Could it be that some place out there in the computational universe, we might find our physical universe?",
+        "15": "I'm committed to seeing this project done.  To see if within this decade we can finally hold in our hands the rule for our universe, and know where our universe lies in the space of all possible universes."
+    }
+}
