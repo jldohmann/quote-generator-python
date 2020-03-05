@@ -7,5 +7,13 @@
         <div class="quote_div">
             {{ quote }}
         </div>
+        <button type="submit" onClick="refreshPage()">
+            New Quote!
+        </button>
     </body>
+    <script>
+        function refreshPage() {
+            window.location.reload();
+        }
+    </script>
 </html>
