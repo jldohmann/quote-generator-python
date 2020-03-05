@@ -20,6 +20,12 @@ pip3 install Flask
 ```
 The rest of the project structure follows.
 
+When you come back to the project, remember to reset your environment variables:
+```
+export FLASK_APP=quote-generator
+export FLASK_ENV=development
+```
+
 ## Data
 Initial data is pulled from the [Stephen Wolfram Wikiquote page](https://en.wikiquote.org/wiki/Stephen_Wolfram). The script, `quotes/initial-quotes.py`, performs a GET request to access the page and parses and stores HTML. [XPath](https://www.w3schools.com/xml/xml_xpath.asp) is then used to traverse the tree and target the individual quotes living in the `<li>` elements.
 
